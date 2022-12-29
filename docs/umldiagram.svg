@@ -1,0 +1,66 @@
+<svg version="1.1" baseProfile="full" width="334.0" height="501.0" viewbox="0 0 334 501" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events">
+<desc >#.interface: fill=lightblue
+#.enumeration: fill=lightgreen
+#.type: fill=lightgray
+[&lt;interface&gt;User|+created_date: { type: Date; };+created_by: { type: String; };+last_modified_by: { type: String; };+last_modified_date: { type: Date; };+firstname: String;+lastname: String;+username: String;+email: String;+password: String;+phonenumber: String;+avatar: String;+Idtoken: String;+loggedinDate: Date;+loggedoutDate: Date;+role: { type: String; ref: &quot;roles&quot;; };+org: String;+org_country: String;+org_sub1: String;+org_sub2: String;+org_sub3: String|]</desc>
+<g stroke-width="1.0" text-align="left" font="12pt Helvetica, Arial, sans-serif" font-size="12pt" font-family="Helvetica" font-weight="normal" font-style="normal">
+<g transform="translate(0.5, 0.5)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round" stroke="#33322E">
+<g stroke="transparent" fill="transparent">
+<rect x="0.0" y="0.0" height="501.0" width="334.0" stroke="none"></rect>
+</g>
+<g transform="translate(8, 8)" fill="#33322E">
+<g transform="translate(20, 20)">
+<g data-name="User">
+<g fill="lightblue" stroke="#33322E" data-name="User">
+<rect x="0.0" y="0.0" height="445.0" width="278.0" data-name="User"></rect>
+<path d="M0.0 31.0 L278.0 31.0" fill="none" data-name="User"></path>
+<path d="M0.0 437.0 L278.0 437.0" fill="none" data-name="User"></path>
+</g>
+<g transform="translate(0, 0)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="User">
+<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="User">
+<a id="../application/services/diagrams/serviceModels/User.ts.User" xlink:href="../application/services/diagrams/serviceModels/User.ts"><text x="131.0" y="13.5" stroke="none" text-anchor="middle" data-name="User">User</text></a>
+
+</g>
+</g>
+<g transform="translate(0, 31)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="User">
+<g transform="translate(8, 8)" fill="#33322E" text-align="left" data-name="User">
+<text x="0.0" y="13.5" stroke="none" data-name="User">+created_date: { type: Date</text>
+<text x="0.0" y="28.5" stroke="none" data-name="User">}</text>
+<text x="0.0" y="43.5" stroke="none" data-name="User">+created_by: { type: String</text>
+<text x="0.0" y="58.5" stroke="none" data-name="User">}</text>
+<text x="0.0" y="73.5" stroke="none" data-name="User">+last_modified_by: { type: String</text>
+<text x="0.0" y="88.5" stroke="none" data-name="User">}</text>
+<text x="0.0" y="103.5" stroke="none" data-name="User">+last_modified_date: { type: Date</text>
+<text x="0.0" y="118.5" stroke="none" data-name="User">}</text>
+<text x="0.0" y="133.5" stroke="none" data-name="User">+firstname: String</text>
+<text x="0.0" y="148.5" stroke="none" data-name="User">+lastname: String</text>
+<text x="0.0" y="163.5" stroke="none" data-name="User">+username: String</text>
+<text x="0.0" y="178.5" stroke="none" data-name="User">+email: String</text>
+<text x="0.0" y="193.5" stroke="none" data-name="User">+password: String</text>
+<text x="0.0" y="208.5" stroke="none" data-name="User">+phonenumber: String</text>
+<text x="0.0" y="223.5" stroke="none" data-name="User">+avatar: String</text>
+<text x="0.0" y="238.5" stroke="none" data-name="User">+Idtoken: String</text>
+<text x="0.0" y="253.5" stroke="none" data-name="User">+loggedinDate: Date</text>
+<text x="0.0" y="268.5" stroke="none" data-name="User">+loggedoutDate: Date</text>
+<text x="0.0" y="283.5" stroke="none" data-name="User">+role: { type: String</text>
+<text x="0.0" y="298.5" stroke="none" data-name="User">ref: &quot;roles&quot;</text>
+<text x="0.0" y="313.5" stroke="none" data-name="User">}</text>
+<text x="0.0" y="328.5" stroke="none" data-name="User">+org: String</text>
+<text x="0.0" y="343.5" stroke="none" data-name="User">+org_country: String</text>
+<text x="0.0" y="358.5" stroke="none" data-name="User">+org_sub1: String</text>
+<text x="0.0" y="373.5" stroke="none" data-name="User">+org_sub2: String</text>
+<text x="0.0" y="388.5" stroke="none" data-name="User">+org_sub3: String</text>
+
+</g>
+</g>
+<g transform="translate(0, 437)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="User">
+<g transform="translate(8, 8)" fill="#33322E" data-name="User">
+
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
